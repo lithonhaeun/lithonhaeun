@@ -1,9 +1,9 @@
 ## 안뇽하세용 👋
-두다다다다다다다
-*두다다다다다다다
-　(∩`・ω・)
-＿/_ミつ/￣￣￣/
-　　＼/＿＿＿/
+*두다다다다다다다*
+*두다다다다다다다*
+　(∩`・ω・)   
+＿/_ミつ/￣￣￣/   
+　　＼/＿＿＿/   
 
 <!--
 **lithonhaeun/lithonhaeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
